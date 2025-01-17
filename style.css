@@ -57,6 +57,7 @@ input[type="number"] {
     color: #ffffff;
     text-shadow: 1px 2px 4px #ffffff;
     word-wrap: break-word;
+    cursor: pointer;
 }
 
 button {
